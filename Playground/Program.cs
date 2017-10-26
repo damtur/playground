@@ -116,7 +116,7 @@ namespace Playground
             return list;
         }
         
-        public static void Main(string[] args)
+        public static void RunQuickSort(string[] args)
         {
    
             PringList(QuickSort(new List<int>
